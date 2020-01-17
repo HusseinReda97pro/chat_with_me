@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047427327447",
+    "firebase_url": "https://chat-with-me-2c549.firebaseio.com",
+    "project_id": "chat-with-me-2c549",
+    "storage_bucket": "chat-with-me-2c549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047427327447:android:0d2518107d8fc164001792",
+        "android_client_info": {
+          "package_name": "com.progx.chat_with_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047427327447-efh154mf7cdvheaa72vvu71d68jq2f5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkw4oLmmj_huwevuZH9U4sjgzZuvcqgUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047427327447-efh154mf7cdvheaa72vvu71d68jq2f5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
